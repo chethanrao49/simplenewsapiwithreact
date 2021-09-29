@@ -1,0 +1,7 @@
+.nodata-container {
+  display: flex;
+  height: 50vh;
+  width: 60vw;
+  margin: 200px 100px;
+  justify-content: center;
+}
